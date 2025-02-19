@@ -1,0 +1,7 @@
+com\jakartaeeudbl\bienvenu\beans\NavigationBean.class
+com\jakartaeeudbl\bienvenu\resources\JakartaEE10Resource.class
+com\jakartaeeudbl\bienvenu\beans\LieuController.class
+com\jakartaeeudbl\bienvenu\beans\Lieu.class
+com\jakartaeeudbl\bienvenu\beans\LieuBean.class
+com\jakartaeeudbl\bienvenu\beans\CurrencyConverter.class
+com\jakartaeeudbl\bienvenu\beans\ConversionMonBean.class
